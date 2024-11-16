@@ -2,9 +2,7 @@
 
 No tour?  How about my sizzle reel?
 
-Let those serve as a tongue in cheek reminder the next time you walk in to an AT&T store.  Nothing against salespeople, of course; I am one.  But I'm also so much more.  See below.
-
-🚀
+Let those serve as a tongue in cheek reminder the next time you walk in to an AT&T store.  Nothing against salespeople, of course; I am one.  But I'm also so much more.  See below. 🚀
 
 <!--
 **chAMP1R3/chAMP1R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
