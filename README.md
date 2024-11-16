@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 I'm Stacy.  Welcome to my portfolio WIKI!  At risk of Wikipedia - I share their values of transparency and collaboration.  So on that note - know you’re free to comment, request, whatever; but I’m going to do something Jimmy Wales won’t.  I’m going to show you around.  Follow me.
+
+No tour?  How about my sizzle reel?
+
+Let those serve as a tongue in cheek reminder the next time you walk in to an AT&T store.  Nothing against salespeople, of course; I am one.  But I'm also so much more.  See below.
 
 <!--
 **chAMP1R3/chAMP1R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
