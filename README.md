@@ -1,20 +1,12 @@
-👋 I'm Stacy.  Welcome to my portfolio WIKI!  At risk of Wikipedia - I share their values of transparency and collaboration.  So on that note - know you’re free to comment, request, whatever; but I’m going to do something Jimmy Wales won’t.  I’m going to show you around.  Follow me.
+<html>
+👋 I'm Stacy.
 
-No tour?  How about my sizzle reel?
+I've done some cool stuff across my 8+ year career.
 
-Let those serve as a tongue in cheek reminder the next time you walk in to an AT&T store.  Nothing against salespeople, of course; I am one.  But I'm also so much more.  See below. 🚀
+Some of the things I'm most proud of live here.  
 
-<!--
-**chAMP1R3/chAMP1R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So without any further ado - welcome to my<s>Portfolio</s> Wiki!
 
-Here are some ideas to get you started:
+Eat your heart out. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
